@@ -50,6 +50,7 @@ int main() {
 	// funktion waveformCreate
 	// funktion waveformModify
 	// funktion waveformModify
+	// more functions later
 
 
 }
